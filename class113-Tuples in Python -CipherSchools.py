@@ -1,0 +1,11 @@
+mixed = (12,2,1,3,7,6)
+print(type(mixed))
+n = (1,)
+print(type(n))
+k = 'm','l','y'
+print(type(k))
+r,a,d=(k)
+print(r)
+g = (1,[1,2,3])
+g[1].append(4)
+print(g[1])
